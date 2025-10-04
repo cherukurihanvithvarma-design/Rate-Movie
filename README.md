@@ -8,11 +8,6 @@
        alt="Movie Review Interface Screenshot" width="900"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/cherukurihanvithvarma-design/Rate-Movie/blob/main/Rating-Review.png?raw=true" 
-       alt="Movie Review and Rating Homepage" width="900"/>
-</p>
-
 ➡️💡 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄  
 𝗠𝗼𝘃𝗶𝗲 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀 𝗼𝗳𝘁𝗲𝗻 𝘄𝗮𝗻𝘁 𝗮 𝗽𝗹𝗮𝗰𝗲 𝘁𝗼 𝗲𝘅𝗽𝗹𝗼𝗿𝗲 𝗮𝗻𝗱 𝘀𝗵𝗮𝗿𝗲 𝗼𝗽𝗶𝗻𝗶𝗼𝗻𝘀 𝗮𝗯𝗼𝘂𝘁 𝗳𝗶𝗹𝗺𝘀.  
 𝗧𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘀𝗼𝗹𝘃𝗲𝘀 𝘁𝗵𝗮𝘁 𝗯𝘆 𝗰𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗮 "𝗹𝗶𝗴𝗵𝘁𝘄𝗲𝗶𝗴𝗵𝘁, 𝘂𝘀𝗲𝗿-𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆, 𝗮𝗻𝗱 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲 𝘄𝗲𝗯𝘀𝗶𝘁𝗲" 𝘁𝗵𝗮𝘁 𝗱𝗶𝘀𝗽𝗹𝗮𝘆𝘀 𝗺𝗼𝘃𝗶𝗲 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗳𝗲𝘁𝗰𝗵𝗲𝗱 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗢𝗠𝗗𝗕 𝗔𝗣𝗜.  
@@ -38,20 +33,24 @@
 𝟮. 𝗧𝗵𝗲 𝗮𝗽𝗽 𝗳𝗲𝘁𝗰𝗵𝗲𝘀 𝗱𝗮𝘁𝗮 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 "𝗢𝗠𝗗𝗕 𝗔𝗣𝗜"  
 
 <p align="center">
+  <img src="https://github.com/cherukurihanvithvarma-design/Rate-Movie/blob/main/Rating-Review.png?raw=true" 
+       alt="Movie Review and Rating Homepage" width="900"/>
+</p>
+𝟯. 𝗥𝗲𝘀𝘂𝗹𝘁𝘀 𝗮𝗿𝗲 𝘀𝗵𝗼𝘄𝗻 𝗮𝘀 𝗱𝘆𝗻𝗮𝗺𝗶𝗰 𝗺𝗼𝘃𝗶𝗲 𝗰𝗮𝗿𝗱𝘀  
+𝟰. 𝗬𝗼𝘂 𝗰𝗮𝗻 𝘄𝗿𝗶𝘁𝗲 𝗮 𝗿𝗲𝘃𝗶𝗲𝘄 𝗮𝗻𝗱 𝗰𝗵𝗼𝗼𝘀𝗲 𝗮 𝗿𝗮𝘁𝗶𝗻𝗴  
+
+<p align="center">
   <img src="https://github.com/cherukurihanvithvarma-design/Rate-Movie/blob/main/Serach_Results.png?raw=true" 
        alt="Search Results Screenshot" width="850"/>
 </p>
 
-𝟯. 𝗥𝗲𝘀𝘂𝗹𝘁𝘀 𝗮𝗿𝗲 𝘀𝗵𝗼𝘄𝗻 𝗮𝘀 𝗱𝘆𝗻𝗮𝗺𝗶𝗰 𝗺𝗼𝘃𝗶𝗲 𝗰𝗮𝗿𝗱𝘀  
-𝟰. 𝗬𝗼𝘂 𝗰𝗮𝗻 𝘄𝗿𝗶𝘁𝗲 𝗮 𝗿𝗲𝘃𝗶𝗲𝘄 𝗮𝗻𝗱 𝗰𝗵𝗼𝗼𝘀𝗲 𝗮 𝗿𝗮𝘁𝗶𝗻𝗴  
+𝟱. 𝗥𝗲𝘃𝗶𝗲𝘄𝘀 𝗮𝗿𝗲 𝘀𝗮𝘃𝗲𝗱 𝗹𝗼𝗰𝗮𝗹𝗹𝘆 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗯𝗿𝗼𝘄𝘀𝗲𝗿  
+𝟲. 𝗖𝗹𝗶𝗰𝗸 "📖 𝗠𝘆 𝗥𝗲𝘃𝗶𝗲𝘄𝘀" 𝘁𝗼 𝘃𝗶𝗲𝘄 𝗮𝗹𝗹 𝘆𝗼𝘂𝗿 𝘀𝗮𝘃𝗲𝗱 𝗲𝗻𝘁𝗿𝗶𝗲𝘀  
 
 <p align="center">
   <img src="https://github.com/cherukurihanvithvarma-design/Rate-Movie/blob/main/Submission.png?raw=true" 
        alt="Review Submission Screenshot" width="850"/>
 </p>
-
-𝟱. 𝗥𝗲𝘃𝗶𝗲𝘄𝘀 𝗮𝗿𝗲 𝘀𝗮𝘃𝗲𝗱 𝗹𝗼𝗰𝗮𝗹𝗹𝘆 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗯𝗿𝗼𝘄𝘀𝗲𝗿  
-𝟲. 𝗖𝗹𝗶𝗰𝗸 "📖 𝗠𝘆 𝗥𝗲𝘃𝗶𝗲𝘄𝘀" 𝘁𝗼 𝘃𝗶𝗲𝘄 𝗮𝗹𝗹 𝘆𝗼𝘂𝗿 𝘀𝗮𝘃𝗲𝗱 𝗲𝗻𝘁𝗿𝗶𝗲𝘀  
 
 <p align="center">
   <img src="https://github.com/cherukurihanvithvarma-design/Rate-Movie/blob/main/Review-History.png?raw=true" 
